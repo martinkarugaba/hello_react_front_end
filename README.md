@@ -16,10 +16,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [My Catalog App] <a name="about-project"></a>
+# 📖 [Hello React Front End] <a name="about-project"></a>
 
 ### Link to Back end repo
-(Back end)[https://github.com/martinkarugaba/hello_rails_back_end]
+
+- [] [Back end repo](https://github.com/martinkarugaba/hello_rails_back_end)
 
 **[Hello react front end]** is a project that displays a random greeting on page refresh
 
