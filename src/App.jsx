@@ -1,11 +1,9 @@
-import GreetingComponent from "./components/Greeting";
+import GreetingComponent from './components/Greeting';
 
-const App = () => {
-  return (
-    <>
-      <GreetingComponent />
-    </>
-  );
-}
+const App = () => (
+  <>
+    <GreetingComponent />
+  </>
+);
 
 export default App;
