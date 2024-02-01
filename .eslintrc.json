@@ -23,7 +23,10 @@
     "react/react-in-jsx-scope": "off",
     "import/no-unresolved": "off",
     "no-shadow": "off",
-    "import/no-extraneous-dependencies": ["error", {"devDependencies": ["**/*.config.js", "**/*.json"]}]
+    "import/no-extraneous-dependencies": [
+      "error",
+      { "devDependencies": ["**/*.config.js", "**/*.json"] }
+    ]
   },
   "overrides": [
     {
