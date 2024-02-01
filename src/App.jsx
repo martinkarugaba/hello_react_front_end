@@ -1,9 +1,9 @@
-import "./App.css";
+import GreetingComponent from "./components/Greeting";
 
-function App() {
+const App = () => {
   return (
     <>
-      <h1>Hello Rails</h1>
+      <GreetingComponent />
     </>
   );
 }
